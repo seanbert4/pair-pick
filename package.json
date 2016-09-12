@@ -1,0 +1,28 @@
+{
+  "name": "pair-pick",
+  "version": "0.1.0",
+  "description": "Given possible pairs and rules, picks the optimal pairs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seanbert4/pair-pick.git"
+  },
+  "keywords": [
+    "pairs",
+    "pairing",
+    "stable",
+    "matching"
+  ],
+  "author": "seanbert4",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/seanbert4/pair-pick/issues"
+  },
+  "homepage": "https://github.com/seanbert4/pair-pick#readme",
+  "devDependencies": {
+    "mocha": "^3.0.2"
+  }
+}
